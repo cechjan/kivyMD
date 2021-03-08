@@ -1,0 +1,55 @@
+{
+  "person": [
+    {
+      "name": "Šárka Chalupová",
+      "state": "CZE",
+      "gender": "female"
+    },
+    {
+      "name": "Abigail Davis",
+      "state": "USA",
+      "gender": "female"
+    },
+    {
+      "name": "Eva Machová",
+      "state": "CZE",
+      "gender": "female"
+    },
+        {
+      "name": "Aleksandr Smirnov",
+      "state": "RUS",
+      "gender": "male"
+    },
+    {
+      "name": "Pavla Novosadová",
+      "state": "CZE",
+      "gender": "female"
+    },
+    {
+      "name": "Karolína Macurová",
+      "state": "CZE",
+      "gender": "female"
+    },
+    {
+      "name": "Anatolij Alexervic",
+      "state": "RUS",
+      "gender": "male"
+    },
+    {
+      "name": "Jaromír Slávik",
+      "state": "CZE",
+      "gender": "male"
+    },
+    {
+      "name": "Yevgeny Kuzněcov",
+      "state": "RUS",
+      "gender": "male"
+    },
+    {
+      "name": "Isabella Smith",
+      "state": "USA",
+      "gender": "female"
+    }
+
+  ]
+}
